@@ -1,0 +1,3 @@
+Read the Bible|True
+Take Children to School|True
+Study Python|False
