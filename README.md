@@ -16,3 +16,9 @@ A simple terminal-based To-Do List app built with Python. It lets users:
 1. Install Python and the `colorama` library:
    ```bash
    pip install colorama
+---
+
+## 👤 Author
+
+Built by Eric Mutisya, a self-taught Python developer in Kenya using Replit and GitHub.  
+This project was part of a personal journey into freelance and remote work.
