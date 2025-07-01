@@ -1,22 +1,35 @@
 # 📝 Python To-Do List App
 
-A simple terminal-based To-Do List app built with Python. It lets users:
+This is a terminal-based To-Do List app built in Python. It allows users to manage tasks directly from the command line. Data is saved to a file (`tasks.txt`), so progress is preserved between runs.
+
+---
+
+## 🚀 Features
 
 - ✅ Add tasks
 - ❌ Delete tasks
-- ✔️ Mark tasks as done (supports multiple at once)
+- ✔️ Mark tasks as done (multiple supported)
 - 🧹 Clear all tasks
-- 💾 Save tasks to file (`tasks.txt`)
-- 🎨 Colored terminal output using `colorama`
+- 📂 Save and load tasks automatically
+- 🎨 Colorful output using `colorama`
 
 ---
 
-## 🚀 How to Run
+## 📸 Screenshot
 
-1. Install Python and the `colorama` library:
+![screenshot](screenshot.png)
+
+---
+
+## 🧪 How to Run the App
+
+1. Make sure Python is installed on your machine.
+2. Install the required package:
    ```bash
    pip install colorama
----
+
+
+python main.py
 
 ## 👤 Author
 
